@@ -1,0 +1,24 @@
+h1,h2{
+  font-family: 'MuseoModerno', cursive;
+}
+body{
+  padding-left: 20%;
+  padding-right: 20%;
+  background-image: url("BACKGROUND-1.png");
+}
+h3{
+  font-family: 'Bellota', cursive;
+  font-size: 1.3em;
+}
+h5{
+  font-family: 'Slabo 27px', serif;
+  font-size: 1em;
+}
+p{
+  font-family: 'Fira Mono', monospace;
+}
+footer{
+  padding-left: 34%;
+  font-family: serif;
+  color: red;
+}
