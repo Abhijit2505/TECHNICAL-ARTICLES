@@ -16,7 +16,7 @@ h5{
 }
 p{
   font-family: 'Fira Mono', monospace;
-  linespacing: 1em;
+  line-height: 1.5em;
 }
 footer{
   padding-left: 34%;
